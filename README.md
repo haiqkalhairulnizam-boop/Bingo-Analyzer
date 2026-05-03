@@ -153,7 +153,7 @@ The program runs three phases automatically:
 
 ## 📸 Screenshot
 
-> *bingo_comparison.png*
+> ![image]bingo_comparison.png
 
 The graph contains **6 panels**:
 
