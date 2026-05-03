@@ -10,8 +10,9 @@
 **MOHAMAD HAIQKAL BIN HAIRULNIZAM**\
 Student ID: `2025221372`\
 Course: ITT440 — Network Programming\
-Lecturer: Shahadan Bin Saad
-Youtube Link:
+Lecturer: Shahadan Bin Saad\
+Youtube Link: \
+Github Link: \
 
 
 ---
