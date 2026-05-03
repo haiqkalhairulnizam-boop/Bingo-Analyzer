@@ -12,7 +12,7 @@ Student ID: `2025221372`\
 Course: ITT440 — Network Programming\
 Lecturer: Shahadan Bin Saad\
 Youtube Link: \
-Github Link: 
+Github Link: https://github.com/haiqkalhairulnizam-boop/Bingo-Analyzer.git
 
 
 ---
@@ -47,8 +47,8 @@ A sequential (single-threaded) baseline is measured first, then both approaches 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/bingo-analyzer.git
-cd bingo-analyzer
+git clone https://github.com/haiqkalhairulnizam-boop/Bingo-Analyzer.git
+cd Bingo-Analyzer
 ```
 
 ### 2. (Optional but recommended) Create a virtual environment
